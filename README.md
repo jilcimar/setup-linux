@@ -19,6 +19,7 @@ chmod 777 setuplinux.sh
 - PostgreSQL
 - Laravel
 - Vim
+- Npm
 - Python 3.6
 - Pip3
 - Spotfy

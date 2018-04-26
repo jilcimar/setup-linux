@@ -27,6 +27,9 @@ sudo apt-get install postgresql pgadmin3
 #VIM
 sudo apt-get install vim
 
+#NPM
+sudo apt install npm
+
 #Setup Python3 + Pip3
 sudo apt install python3-pip
 sudo apt install python3-pip
