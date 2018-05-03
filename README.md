@@ -22,4 +22,5 @@ chmod 777 setuplinux.sh
 - Npm
 - Python 3.6
 - Pip3
+- Heroku
 - Spotfy
