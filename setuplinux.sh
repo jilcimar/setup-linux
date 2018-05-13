@@ -9,7 +9,7 @@ sudo apt-get update
 sudo apt-get install php-mbstring
 sudo apt-get install composer -y
 sudo apt-get install php7.2-pgsql -y
-sudo apt-get install apache2 libapache2-mod-php7.0 -y
+sudo apt-get install apache2 libapache2-mod-php7.2 -y
 sudo apt-get install php7.2-dev -y
 sudo apt-get install php7.2-zip -y
 sudo apt-get install php7.2-xml -y
