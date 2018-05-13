@@ -42,6 +42,9 @@ sudo apt-get install python3.6
 #phpMyAdmin
 sudo apt-get update
 sudo apt-get install phpmyadmin php-mbstring php-gettext
+sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf
+sudo ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
+sudo service apache2 restart
 
 # Heroku
 sudo add-apt-repository "deb https://cli-assets.heroku.com/branches/stable/apt ./"
