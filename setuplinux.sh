@@ -39,14 +39,14 @@ sudo add-apt-repository ppa:jonathonf/python-3.6
 sudo apt update
 sudo apt-get install python3.6
 
-# Heroku
-
-sudo add-apt-repository "deb https://cli-assets.heroku.com/branches/stable/apt ./"
-
-curl -L https://cli-assets.heroku.com/apt/release.key | sudo apt-key add -
-
+#phpMyAdmin
 sudo apt-get update
+sudo apt-get install phpmyadmin php-mbstring php-gettext
 
+# Heroku
+sudo add-apt-repository "deb https://cli-assets.heroku.com/branches/stable/apt ./"
+curl -L https://cli-assets.heroku.com/apt/release.key | sudo apt-key add -
+sudo apt-get update
 sudo apt-get install heroku
 
 
