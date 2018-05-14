@@ -21,6 +21,9 @@ sudo apt-get install php7.2-zip
 composer global require "laravel/installer"
 export PATH=$PATH:$HOME/.config/composer/vendor/bin
 
+#Lumen
+composer global require "laravel/lumen-installer"
+
 #PostgreSQL
 sudo apt-get install postgresql pgadmin3
 
