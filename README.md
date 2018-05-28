@@ -27,4 +27,3 @@ chmod 777 setuplinux.sh
 - phpMyAdmin
 - Heroku
 - Spotfy
-- JetBrains ToollBox
