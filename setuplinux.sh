@@ -21,6 +21,11 @@ sudo apt-get install php7.2-zip
 composer global require "laravel/installer"
 export PATH=$PATH:$HOME/.config/composer/vendor/bin
 
+#Node.js
+sudo apt update
+curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
 #Lumen
 composer global require "laravel/lumen-installer"
 

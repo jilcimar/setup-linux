@@ -18,6 +18,7 @@ chmod 777 setuplinux.sh
 - PHP 7.2
 - PostgreSQL
 - Laravel
+- Node.js
 - Lumen
 - Vim
 - Npm
