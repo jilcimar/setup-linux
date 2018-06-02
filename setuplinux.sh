@@ -30,15 +30,19 @@ sudo apt-get install -y nodejs
 composer global require "laravel/lumen-installer"
 
 #PostgreSQL
+sudo apt-get update
 sudo apt-get install postgresql pgadmin3
 
 #VIM
+sudo apt-get update
 sudo apt-get install vim
 
 #NPM
+sudo apt-get update
 sudo apt install npm
 
 #Setup Python3 + Pip3
+sudo apt-get update
 sudo apt install python3-pip
 sudo apt install python3-pip
 pip install --upgrade pip
@@ -60,6 +64,9 @@ curl -L https://cli-assets.heroku.com/apt/release.key | sudo apt-key add -
 sudo apt-get update
 sudo apt-get install heroku
 
+# Chromium
+sudo apt-get update
+sudo apt-get install chromium-browser
 
 #SPOTFY
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 0DF731E45CE24F27EEEB1450EFDC8610341D9410
@@ -67,8 +74,3 @@ echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sourc
 sudo apt-get update
 sudo apt-get install spotify-client
 
-#JetBrains ToollBox
-# wget "https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.8.3678.tar.gz"
-# gunzip jetbrains-toolbox-1.8.3678.tar.gz
-# cd jetbrains-toolbox-1.8.3678
-# ./jetbrains-toolbox

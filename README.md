@@ -26,4 +26,5 @@ chmod 777 setuplinux.sh
 - Pip3
 - phpMyAdmin
 - Heroku
+- Chromium
 - Spotfy
