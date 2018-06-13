@@ -35,7 +35,7 @@ chmod 777 setuplinux.sh
 
 ## Contributors
 
-Thanks goes to these people ([emoji key][emojis]):
+Thanks goes to these people:
 
 <img src="https://avatars2.githubusercontent.com/u/10817238?s=400&v=4" width="100px;"/><br/>
 <a href="https://github.com/alvarofpp">
