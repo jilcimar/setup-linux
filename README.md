@@ -12,6 +12,10 @@ chmod 777 setuplinux.sh
 ./setuplinux.sh
 ```
 
+# Execution
+<p align="center"><img src="https://github.com/jilcimar/setup-linux/blob/master/images/execution.png"></p>
+
+
 # List of programs contained in Script
 
 - Git
