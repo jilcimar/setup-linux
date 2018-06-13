@@ -32,3 +32,12 @@ chmod 777 setuplinux.sh
 - Heroku
 - Chromium
 - Spotfy
+
+## Contributors
+
+Thanks goes to these people ([emoji key][emojis]):
+
+<img src="https://avatars2.githubusercontent.com/u/10817238?s=400&v=4" width="100px;"/><br/>
+<a href="https://github.com/alvarofpp">
+<b>Álvaro F. P. P."</b>
+<a/>
